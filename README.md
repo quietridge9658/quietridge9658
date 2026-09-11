@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm quietridge
 
-<!--
-**quietridge9658/quietridge9658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just another developer figuring things out as I go.
 
-Here are some ideas to get you started:
+### About me
+- Currently exploring software development and building small projects
+- Learning by doing — mostly backend and tooling stuff
+- Still early in the journey, so a lot of experiments ahead
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use / learning
+- Python
+- JavaScript / TypeScript
+- Git & Linux
+- Occasional Node.js and simple web stuff
+
+### Projects
+Nothing polished enough to show yet.  
+Will drop things here when they feel ready.
+
+---
+
+Feel free to poke around if anything interesting shows up later.
